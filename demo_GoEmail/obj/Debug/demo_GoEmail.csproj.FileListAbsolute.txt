@@ -1,0 +1,21 @@
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\bin\Debug\demo_GoEmail.exe
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\bin\Debug\demo_GoEmail.pdb
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.Form1.resources
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.Properties.Resources.resources
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.csproj.GenerateResource.Cache
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.exe
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.pdb
+C:\Users\10GO\Documents\Visual Studio 2008\Projects\demo_GoEmail\demo_GoEmail\bin\Debug\GoEmail.dll
+C:\Users\10GO\Desktop\Demo\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.exe
+C:\Users\10GO\Desktop\Demo\demo_GoEmail\demo_GoEmail\obj\Debug\demo_GoEmail.pdb
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\bin\Debug\demo_GoEmail.exe.config
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\bin\Debug\demo_GoEmail.exe
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\bin\Debug\demo_GoEmail.pdb
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.Form1.resources
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.Properties.Resources.resources
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.exe
+C:\Users\Usuario\Downloads\demo_GoEmail C#\demo_GoEmail C#\demo_GoEmail\obj\Debug\demo_GoEmail.pdb
